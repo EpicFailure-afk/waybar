@@ -1,8 +1,3 @@
-Here's a clean and structured `README.md` for your **Waybar** repo:
-
----
-
-```md
 # Waybar Configuration
 
 My custom Waybar setup for Hyprland.  
@@ -70,7 +65,7 @@ Install these:
 
 ```bash
 yay -S waybar playerctl pamixer brightnessctl tofi cliphist
-````
+```
 
 Optional:
 
@@ -125,10 +120,6 @@ git clone https://github.com/EpicFailure-afk/waybar.git ~/.config/waybar
 ```
 
 ---
-
-
-
-## 🤝 Contribute
 
 Feel free to fork or PR your improvements.
 
