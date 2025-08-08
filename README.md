@@ -118,6 +118,10 @@ For example, refresh battery every 10s:
 ```bash
 git clone https://github.com/EpicFailure-afk/waybar.git ~/.config/waybar
 ```
+---
+> ⚠️ **Note:** This work includes contributions or help from others. It is not entirely my own.
+
+
 
 ---
 
